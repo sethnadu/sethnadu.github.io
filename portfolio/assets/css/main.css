@@ -1658,6 +1658,8 @@ input, select, textarea {
 				width: auto;
 			}
 
+			.box .style2
+
 /* Button */
 
 	input[type="button"],
@@ -1937,6 +1939,7 @@ input, select, textarea {
 			width: auto;
 		}
 
+		
 /* Icons */
 
 	.icon {
